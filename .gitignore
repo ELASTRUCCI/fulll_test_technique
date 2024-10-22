@@ -1,0 +1,8 @@
+.venv
+.penv
+__pycache__/
+**/.vscode
+
+data/
+
+logs/
